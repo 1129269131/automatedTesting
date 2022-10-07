@@ -1,0 +1,7 @@
+1、打开项目idea的Terminal命令行
+2、输入：mvn clean
+3、执行
+4、输入：mvn test
+5、执行
+6、输入：mvn io.qameta.allure:allure-maven:serve
+7、执行

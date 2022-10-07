@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<!-- day09：测试套件 -->
+<suite name="测试套件" >
+    <test name="测试">
+        <classes>
+            <class name="com.koala.automatedtesting.RegisterTest"/>
+            <class name="com.koala.automatedtesting.LoginTest"/>
+            <class name="com.koala.automatedtesting.RechargeTest"/>
+            <class name="com.koala.automatedtesting.AddloanTest"/>
+            <class name="com.koala.automatedtesting.InvestFlowTest"/>
+        </classes>
+    </test>
+</suite>
